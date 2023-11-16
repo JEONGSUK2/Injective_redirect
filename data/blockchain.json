@@ -1,0 +1,219 @@
+{
+    "Card": [
+        {
+            "img": "https://injective-dotcom-files.s3.us-east-2.amazonaws.com/52c78084-7ca7-4907-b142-16a331f627cd.png",
+            "span": "Binance",
+            "type" : "PAGE1"
+        },
+        {
+            "img": "https://injective-dotcom-files.s3.us-east-2.amazonaws.com/4453ade1-1594-4a09-ac0d-c8d3ada693e8.png",
+            "span": "CosmosHub",
+            "type" : "PAGE1"
+        },
+        {
+            "img": "https://injective-dotcom-files.s3.us-east-2.amazonaws.com/75a978b4-21d5-460f-90f2-fba987279849.png",
+            "span": "Figment",
+            "type" : "PAGE1"
+        },
+        {
+            "img": "https://injective-dotcom-files.s3.us-east-2.amazonaws.com/ffef60c8-eacc-4e65-9928-7a3b95ed4f76.png",
+            "span": "Pyth",
+            "type" : "PAGE1"
+        },
+        {
+            "img": "https://injective-dotcom-files.s3.us-east-2.amazonaws.com/80ac091b-9ac6-4129-b5ae-0bfeefbdee50.png",
+            "span": "Wormhole",
+            "type" : "PAGE1"
+        },
+        {
+          "img":"data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJjaXJjbGUtd2l0aC1hcnJvdyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiIGNsYXNzPSJwcmVmaXhfX3ctNSBwcmVmaXhfX2gtNSI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iOS4xIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIxLjgiLz48cGF0aCBkPSJNNS42NTcgMTBsNi43NzMuMDA1TTkuMDQ4IDUuNzE0TDEzLjMzNCAxMGwtNC4yODYgNC4yODYiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+PC9zdmc+",
+          "span":"더 보기",
+          "type" : "PAGE1"
+        },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/b16a8d9e-887a-4929-989f-894a873cb241.png",
+        "span":"Astroport",
+        "type" : "PAGE2"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/b4b4ea8a-e051-4543-af2a-4843c3b4af56.png",
+        "span":"Frontrunner",
+        "type" : "PAGE2"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/1f52690a-01e9-4da9-b1df-9a01b126e3ef.png",
+        "span":"Helix",
+        "type" : "PAGE2"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/8dd87dbd-6fea-4906-aea1-7149cccaf7dd.png",
+        "span":"Mito",
+        "type" : "PAGE2"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/3ab17355-6562-4bef-a789-f8e694acc4d6.png",
+        "span":"Qwerty Exchange",
+        "type" : "PAGE2"
+      },
+      {
+        "img":"data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJjaXJjbGUtd2l0aC1hcnJvdyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiIGNsYXNzPSJwcmVmaXhfX3ctNSBwcmVmaXhfX2gtNSI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iOS4xIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIxLjgiLz48cGF0aCBkPSJNNS42NTcgMTBsNi43NzMuMDA1TTkuMDQ4IDUuNzE0TDEzLjMzNCAxMGwtNC4yODYgNC4yODYiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+PC9zdmc+",
+        "span":"더 보기",
+        "type" : "PAGE2"
+      },
+
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/00d21556-fe08-4bd3-b672-8f108ee63c75.png",
+        "span":"BH Digital",
+        "type" : "PAGE3"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/d9bf35bc-5f06-4f00-8e79-f2bc9bf5030d.png",
+        "span":"Coinbase Institutional",
+        "type" : "PAGE3"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/4f941c4d-6080-4215-930d-6c90aa8a1cbe.png",
+        "span":"Copper",
+        "type" : "PAGE3"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/0987a009-fd4b-445d-909c-4d0839d94315.png",
+        "span":"Cumberland",
+        "type" : "PAGE3"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/6336433d-e8b3-423b-ad07-babb994ecd48.png",
+        "span":"Jump Crypto",
+        "type" : "PAGE3"
+      },
+      {
+        "img":"data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJjaXJjbGUtd2l0aC1hcnJvdyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiIGNsYXNzPSJwcmVmaXhfX3ctNSBwcmVmaXhfX2gtNSI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iOS4xIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIxLjgiLz48cGF0aCBkPSJNNS42NTcgMTBsNi43NzMuMDA1TTkuMDQ4IDUuNzE0TDEzLjMzNCAxMGwtNC4yODYgNC4yODYiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+PC9zdmc+",
+        "span":"더 보기",
+        "type" : "PAGE3"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/9dcdfd93-e5f9-4f06-b37c-28d9eecd16b2.png",
+        "span":"BNB chain",
+        "type" : "PAGE4"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/4453ade1-1594-4a09-ac0d-c8d3ada693e8.png",
+        "span":"CosmosHub",
+        "type" : "PAGE4"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/a83c1f47-27e8-422a-99b8-6d5b74155c9b.png",
+        "span":"Ethereum",
+        "type" : "PAGE4"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/4b4cbce9-dfb2-485d-8401-04e93dcb4570.png",
+        "span":"Polygon",
+        "type" : "PAGE4"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/bf814a6e-c2a2-4ce6-ae3e-9918b92678a6.png",
+        "span":"Solana",
+        "type" : "PAGE4"
+      },
+      {
+        "img":"data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJjaXJjbGUtd2l0aC1hcnJvdyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiIGNsYXNzPSJwcmVmaXhfX3ctNSBwcmVmaXhfX2gtNSI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iOS4xIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIxLjgiLz48cGF0aCBkPSJNNS42NTcgMTBsNi43NzMuMDA1TTkuMDQ4IDUuNzE0TDEzLjMzNCAxMGwtNC4yODYgNC4yODYiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+PC9zdmc+",
+        "span":"더 보기",
+        "type" : "PAGE4"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/52c78084-7ca7-4907-b142-16a331f627cd.png",
+        "span":"Binance",
+        "type" : "PAGE5"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/0eb302e0-a813-4a46-94fc-6e81b3005afe.png",
+        "span":"Coinbase",
+        "type" : "PAGE5"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/05433fb4-79c0-45de-af1d-32f856074b30.png",
+        "span":"Gemini",
+        "type" : "PAGE5"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/8a239202-4ee2-48b5-9c0c-ac45513fbbaf.png",
+        "span":"Huobi",
+        "type" : "PAGE5"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/fa9c9a79-977b-4433-8a4b-316c88eddd5c.png",
+        "span":"Kraken",
+        "type" : "PAGE5"
+      },
+      {
+        "img":"data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJjaXJjbGUtd2l0aC1hcnJvdyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiIGNsYXNzPSJwcmVmaXhfX3ctNSBwcmVmaXhfX2gtNSI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iOS4xIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIxLjgiLz48cGF0aCBkPSJNNS42NTcgMTBsNi43NzMuMDA1TTkuMDQ4IDUuNzE0TDEzLjMzNCAxMGwtNC4yODYgNC4yODYiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+PC9zdmc+",
+        "span":"더 보기",
+        "type" : "PAGE5"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/ee110afa-abc6-40c4-a2aa-46599124b97e.png",
+        "span":"Chorus One",
+        "type" : "PAGE6"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/dc137328-2afa-482c-a8e3-875e11cdf1e5.png",
+        "span":"Cosmostation",
+        "type" : "PAGE6"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/9f944ada-1d57-423c-a561-0ab1c10d1a26.png",
+        "span":"DSRV",
+        "type" : "PAGE6"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/0f8ffd85-432e-4ae7-bc24-e0d37b93c3ab.png",
+        "span":"Helios Staking",
+        "type" : "PAGE6"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/5f7c170f-d1c2-49c4-8c73-d73b99e4d9ea.png",
+        "span":"Smart Stake",
+        "type" : "PAGE6"
+      },
+      {
+        "img":"data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJjaXJjbGUtd2l0aC1hcnJvdyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiIGNsYXNzPSJwcmVmaXhfX3ctNSBwcmVmaXhfX2gtNSI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iOS4xIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIxLjgiLz48cGF0aCBkPSJNNS42NTcgMTBsNi43NzMuMDA1TTkuMDQ4IDUuNzE0TDEzLjMzNCAxMGwtNC4yODYgNC4yODYiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+PC9zdmc+",
+        "span":"더 보기",
+        "type" : "PAGE6"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/2d0e5a0a-a13e-49f7-83c6-acba8269b9da.png",
+        "span":"Keplr",
+        "type" : "PAGE7"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/2995c593-b624-485e-b567-2dcd3ea859e0.png",
+        "span":"Leep",
+        "type" : "PAGE7"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/78072a9f-a590-4e57-aa5d-d90930ed55e9.png",
+        "span":"Ledger",
+        "type" : "PAGE7"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/c7b81340-4bc9-4bb7-8696-7560f442d43a.png",
+        "span":"MetaMask",
+        "type" : "PAGE7"
+      },
+      {
+        "img":"https://injective-dotcom-files.s3.us-east-2.amazonaws.com/41e5f9a1-bbfc-4d49-9790-9a6e616bffd8.png",
+        "span":"Trezor",
+        "type" : "PAGE7"
+      },
+      {
+        "img":"data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJjaXJjbGUtd2l0aC1hcnJvdyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAgMjAiIGZpbGw9Im5vbmUiIGNsYXNzPSJwcmVmaXhfX3ctNSBwcmVmaXhfX2gtNSI+PGNpcmNsZSBjeD0iMTAiIGN5PSIxMCIgcj0iOS4xIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIxLjgiLz48cGF0aCBkPSJNNS42NTcgMTBsNi43NzMuMDA1TTkuMDQ4IDUuNzE0TDEzLjMzNCAxMGwtNC4yODYgNC4yODYiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIi8+PC9zdmc+",
+        "span":"더 보기",
+        "type" : "PAGE7"
+      } 
+    ]  
+}
+
+
+    
+
